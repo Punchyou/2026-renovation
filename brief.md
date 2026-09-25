@@ -14,11 +14,29 @@
 
 | Change | Detail | Image |
 |---|---|---|
-| Shift kitchen–study wall | Kitchen bigger, study smaller | <img src="kosmopoulou_images/kitchen_2d_furnished.png" width="150"> |
+| Shift kitchen–study wall | Kitchen bigger, study smaller — **beam-dependent** (see pending #12) | <img src="kosmopoulou_images/kitchen_2d_furnished.png" width="150"> |
 | Demolish east storage partition | Expand Nikos study/server room | <img src="kosmopoulou_images/nikos_study_2d_view_firnushed.png" width="150"> |
 | Construct WC in master bedroom | New drywall partition | <img src="kosmopoulou_images/wc_3d_view_different_angle.jpeg" width="150"> |
+| Strip bathroom walls | Full strip incl. electrical panel area | |
+| Loft above bathroom | Probably demolish — method agreed by engineer + demo contractor, to re-explain; solar (ηλιακός) pipes pass through — what happens to them? | |
+| Demolish small hole | For WC bathroom ventilation | |
+| Marble | Tiles over existing marble (selective removal only where needed — electrician/plumber) OR complete marble demolition — **decision** (see pending #11) | |
 | Remove ceiling wall decorations | | |
+| Remove marble sills | Under window frames, balcony side | |
+| Remove skirting boards & curtain rods | | |
+| Remove wood floor | Comes out regardless | |
+| Remove entire kitchen | | |
+| Kitchen–Maria's-room wall | Comes down — **beam-dependent**: if δοκάρι in that wall, no point (beam mid-room, blocks cabinet doors) | |
+| Remove AC units | | |
+| Remove awnings (τέντες) | Leaning now | |
+| Radiators | Lines removed, bodies kept — cleaned off-site; τσιμεντοκονία where lines ran | |
+| Radiators — offices | To be added in both studies | |
+| Conduits (σπιράλ) & switches | Who strips — electrician or Yiannis? (pending #16) | |
+| Plumber channels low in wall | No big demo; marble drilled locally | |
+| Balcony door — living room | +30 cm; kitchen door possible too — cost/effort/permits | |
+| Current furniture (couches/wardrobes, previous owners) | Contractor removes — not kitchen-related | |
 | Add small drywall in Leo's room | So child gate sits further in, not directly at the door | |
+| Glass doors to studies | Maria's & Nikos' offices get glass doors → no wall there: Nikos (from scratch) skip the drywall; Maria (existing) demolish the front wall. Consult engineers first | |
 | Study window | Adjacent to wall being moved → **Option A**: into kitchen / **Option B**: slide right along exterior | <img src="kosmopoulou_images/marias_study_window_2d_view.png" width="150"> |
 
 ## 2. Kitchen Area
@@ -103,3 +121,13 @@
 | 7 | 🪟 Windows & patio doors — may need replacement; consider mirror-like balcony door glazing so outsiders can't see in | Windows / Facade Review |
 | 8 | 🎨 Painting job — likely needed; decide timing & whether we do it ourselves | Finishing / Paint Scope |
 | 9 | 🧥 Built-in wardrobes — likely after renovation; need carpenter recommendation | Carpenter / Millwork |
+| 10 | 🚪 Glass doors to studies — structural check for Maria's front-wall demolition & Nikos' no-wall build | Structural Engineer |
+| 11 | 🧱 Marble — tiles over existing (selective removal where needed) vs. complete marble demolition: decide | Finishing / Materials |
+| 12 | 🏗️ Beam check — send plans to Georgia; where is the δοκάρι? If in kitchen–Maria's wall, skip wall move & kitchen enlargement | Structural Engineer |
+| 13 | 🔥 Radiators — bodies cleaned & re-installed? Offices: new or reused bodies? | Heating / MEP |
+| 14 | 🪜 Loft above bathroom — re-explain agreed demo method with engineer; what about the ηλιακός pipes passing through? | Structural Engineer |
+| 15 | 🚪 Balcony door +30 cm (living room) — confirm who does it (fenestration vs. demo), permits; decide kitchen door after cost review | Fenestration / Permits |
+| 16 | ⚡ Conduits (σπιράλ) & switches — electrician or Yiannis strips them? | Electrical |
+| 17 | 🗓️ Demolition — estimate due Mon; floor demo alone ≥ €3k; start by 20 Oct; crane left of building + neighbors OK; upload tiles/materials with demo crane; contractor can also paint walls | Demolition |
+| 18 | 🔨 Tiles — start looking next week | Materials |
+| 19 | 🚿 WC ventilation — confirm the small hole scope | MEP |
