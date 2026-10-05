@@ -2,9 +2,11 @@
 
 ## Overview: Current → Proposed
 
-**Full renovation.** All floors demolished and re-laid — tile quantities needed.
+**Full renovation.** Existing marble floors are retained and tiled over; the wood floors in the two bedrooms are removed. Tile quantities needed for the overlay.
 
 > **Approach:** Some changes can be reconsidered and done later if needed — deferring is harder and costlier after construction, but the budget must be protected.
+
+> **Flooring strategy (in progress):** the leading option is to keep the existing marble, remove the wood flooring in the two bedrooms, and lay new tile over everything — avoiding the cost, time and disruption of demolishing the marble. See [§6 Flooring](#6-flooring) and pending #11 / #20.
 
 | Current | → | Proposed |
 |---|---|---|
@@ -20,11 +22,11 @@
 | Strip bathroom walls | Full strip incl. electrical panel area | |
 | Loft above bathroom | Probably demolish — method agreed by engineer + demo contractor, to re-explain; solar (ηλιακός) pipes pass through — what happens to them? | |
 | Demolish small hole | For WC bathroom ventilation | |
-| Marble | Tiles over existing marble (selective removal only where needed — electrician/plumber) OR complete marble demolition — **decision** (see pending #11) | |
+| Marble | Retain existing marble, tile over it. Selective removal only where needed (electrician/plumber chases) — overlay bonding system & build-up still open (see pending #11, #20) | |
 | Remove ceiling wall decorations | | |
 | Remove marble sills | Under window frames, balcony side | |
 | Remove skirting boards & curtain rods | | |
-| Remove wood floor | Comes out regardless | |
+| Remove wood floor | Two bedrooms only — wood comes out regardless. Substrate underneath to be confirmed (see pending #20) | |
 | Remove entire kitchen | | |
 | Kitchen–Maria's-room wall | Comes down — **beam-dependent**: if δοκάρι in that wall, no point (beam mid-room, blocks cabinet doors) | |
 | Remove AC units | | |
@@ -103,10 +105,25 @@
 
 ## 6. Flooring
 
-| Option | Detail |
-|---|---|
-| New flooring | Most likely demolish all floors, re-lay new — tile quantities to spec |
-| Existing wood floors | Rooms have wood flooring — explore **renovating in place** (sand/refinish) vs. replacing |
+**Strategy under evaluation:** keep the existing marble, remove the wood floors in the two bedrooms, and lay new tile over everything — avoiding the cost, time and disruption of demolishing the marble. Sanding and refinishing the wood floors is no longer on the table.
+
+| Surface | Current | Proposed |
+|---|---|---|
+| Living, kitchen, hall, studies, server room | Marble | Retain, tile over |
+| Two bedrooms | Wood flooring | Remove wood, tile over the substrate |
+| Main bathroom + new en-suite WC | Existing tile | Rebuild / extend per the bathroom scope |
+
+**Consequences to resolve** (detailed in pending #11, #20):
+
+- Bonding system for a polished, low-absorption marble substrate, and whether the marble is
+  polished before or after tiling
+- Total build-up height added, and what that does to door heights and clearances
+- Level differences and thresholds between the rebuilt bedrooms and the rest of the house
+- Skirting (ποδιάδες) rebuilt to the new floor level
+- Surface preparation — flatness and cleanability of the retained marble
+- Selective removal points where the marble must still come up for the electrician/plumber
+- Interaction with the kitchen: if the screed is not redone, the 1.5–2 % drain slope and the
+  trench depth are constrained by the existing floor level (pending #1)
 
 ## 7. Next Steps & Pending Technical Reviews
 
@@ -122,7 +139,7 @@
 | 8 | 🎨 Painting job — likely needed; decide timing & whether we do it ourselves | Finishing / Paint Scope |
 | 9 | 🧥 Built-in wardrobes — likely after renovation; need carpenter recommendation | Carpenter / Millwork |
 | 10 | 🚪 Glass doors to studies — structural check for Maria's front-wall demolition & Nikos' no-wall build | Structural Engineer |
-| 11 | 🧱 Marble — tiles over existing (selective removal where needed) vs. complete marble demolition: decide | Finishing / Materials |
+| 11 | 🧱 Marble — now leaning "retain + tile over": confirm, and define the selective removal points for the electrician/plumber | Finishing / Materials |
 | 12 | 🏗️ Beam check — send plans to Georgia; where is the δοκάρι? If in kitchen–Maria's wall, skip wall move & kitchen enlargement | Structural Engineer |
 | 13 | 🔥 Radiators — bodies cleaned & re-installed? Offices: new or reused bodies? | Heating / MEP |
 | 14 | 🪜 Loft above bathroom — re-explain agreed demo method with engineer; what about the ηλιακός pipes passing through? | Structural Engineer |
@@ -131,3 +148,4 @@
 | 17 | 🗓️ Demolition — estimate due Mon; floor demo alone ≥ €3k; start by 20 Oct; crane left of building + neighbors OK; upload tiles/materials with demo crane; contractor can also paint walls | Demolition |
 | 18 | 🔨 Tiles — start looking next week | Materials |
 | 19 | 🚿 WC ventilation — confirm the small hole scope | MEP |
+| 20 | 🧱 Floor overlay build-up — bonding system for polished marble, added height, level differences and thresholds between the bedrooms and the rest of the house, and what the substrate is under the wood floors | Finishing / Materials |
